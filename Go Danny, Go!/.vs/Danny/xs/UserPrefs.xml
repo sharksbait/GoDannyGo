@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DDBEA707-114A-9E46-32C8-3AEAD335E9FC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Camra/CameraFollow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player Scripts/PlayerMovement.cs" Line="88" Column="1" />
+      <File FileName="Assets/Camra/CameraFollow.cs" Line="20" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="22e747fd-50ad-499a-8d05-11324f2416c5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
